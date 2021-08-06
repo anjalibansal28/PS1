@@ -1,4 +1,4 @@
-#### Platform Science API Testing Assignment using Behave BDD Framework
+## Platform Science API Testing Assignment using Behave BDD Framework
 
 
 The project will help to run API Automation using Behave BDD Framework. The Behave BDD Framework is a cucumber-clone for Python.
