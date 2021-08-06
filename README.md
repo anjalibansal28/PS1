@@ -28,11 +28,9 @@ Below instructions will help you download and install required software on Windo
 #### Download repository
 - git clone https://github.com/anjalibansal28/PS1
 
-#### Setting up the Terminal
-- Go to command prompt and navigate to the project folder using command - cd <path>
-
 #### Activate the Virtual Envrionment
-- On the command prompt run .\venv\Scripts\activate
+- Go to command prompt and navigate to the project folder using command - cd <path>
+- Run .\venv\Scripts\activate
 
 #### Install python libraries
 On the command prompt after activating the venv, run the below commands - 
